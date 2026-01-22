@@ -10,5 +10,8 @@ This is a simple Amazon website clone built using HTML and CSS.
 - HTML5
 - CSS3
 
+## Screanshot
+![Amazon clone homepage]  
+
 ## Author
 Bhawna khanna
